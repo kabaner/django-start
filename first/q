@@ -1,0 +1,13 @@
+total 44
+drwxr-xr-x 3 root root 4096 Jun 21 05:41 ./
+drwxr-xr-x 5 root root 4096 Jun 18 04:26 ../
+-rw-r--r-- 1 root root  148 Jun 21 05:41 admin.py
+-rw-r--r-- 1 root root  300 Jun 21 05:41 admin.pyc
+-rw-r--r-- 1 root root  134 Jun 18 04:26 apps.py
+-rw-r--r-- 1 root root    0 Jun 18 04:26 __init__.py
+-rw-r--r-- 1 root root  140 Jun 18 04:27 __init__.pyc
+drwxr-xr-x 2 root root 4096 Jun 18 04:28 migrations/
+-rw-r--r-- 1 root root  126 Jun 18 04:26 models.py
+-rw-r--r-- 1 root root  466 Jun 18 04:27 models.pyc
+-rw-r--r-- 1 root root   60 Jun 18 04:26 tests.py
+-rw-r--r-- 1 root root   63 Jun 18 04:26 views.py
